@@ -1,6 +1,6 @@
 # 🚀 Building AI Agents from Zero to Hero
 
-**AWSUG MDU — May Skill Sprint 2026**
+**AWSUG MDU — April Skill Sprint 2026**
 
 A 5-challenge journey building AI agents using the **Strands Agents SDK** and **Amazon Bedrock (Nova Pro)** — from a simple chatbot to a full MCP-powered study assistant.
 
@@ -208,8 +208,8 @@ aws_docs_mcp = MCPClient(
 
 ## 👤 Author
 
-**DD** — Tanjore, India  
-Built for the AWSUG MDU May Skill Sprint 2026
+**DD**   
+Built for the AWSUG MDU April Skill Sprint 2026
 
 ---
 
