@@ -75,6 +75,7 @@ graph TD
 ├── challenge-5-mcp-agent/
 │   ├── starter.py          # MCP-powered AWS Study Buddy
 │   └── README.md
+├── .gitignore
 └── README.md               # This file
 ```
 
